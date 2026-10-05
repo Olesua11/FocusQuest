@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusQuest</string>
+    <string name="nav_focus">Фокус</string>
+    <string name="nav_quests">Квесты</string>
+    <string name="nav_stats">Статистика</string>
+    <string name="nav_profile">Профиль</string>
+</resources>
