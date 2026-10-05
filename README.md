@@ -16,6 +16,15 @@
 - локальное хранение данных через Room;
 - тёмный RPG-интерфейс;
 - интерфейс полностью на XML, без Jetpack Compose.
+  ## Скриншоты
+
+<p align="center">
+  <img src="./ckrren11.jpg" width="180">
+  <img src="./ckrren12.jpg" width="180">
+  <img src="./ckrren13.jpg" width="180">
+  
+</p>
+
 
 ## Стек
 
@@ -28,8 +37,3 @@
 - RecyclerView
 - Material Components
 
-## Запуск
-
-Открой папку проекта в Android Studio, дождись Gradle Sync и запусти модуль `app`.
-
-Требуется JDK 17, compileSdk 35, minSdk 26.
